@@ -88,7 +88,7 @@ def menu_principal():
             # Validación de entrada inválida
             print("Opción no válida. Por favor, intente de nuevo.")
 
-# Punto de entrada del programa
+Punto de entrada del programa
 if __name__ == "__main__":
     menu_principal()
 
